@@ -1,6 +1,6 @@
 # FRC 2022
 
-Team 9709 2022 FRC Robot Code for CANDY! The code was written in JAVA using WPILib's FRC Framework. This project also utilizes several third-party libraries 
+Team 7429 2022 FRC Robot Code for CANDY! The code was written in JAVA using WPILib's FRC Framework. This project also utilizes several third-party libraries 
 such as REV Robotics, CTRE Phoenix, and KauaiLabs NAVX.
 
 # Libraries:
